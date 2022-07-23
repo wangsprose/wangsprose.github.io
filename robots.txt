@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://wangsprose.github.io/sitemap.xml
