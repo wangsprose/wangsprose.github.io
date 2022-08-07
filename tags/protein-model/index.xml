@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>protein-model on Wang&#39;s Blog</title>
+    <link>http://wangsprose.github.io/tags/protein-model/</link>
+    <description>Recent content in protein-model on Wang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 22:32:23 -0700</lastBuildDate><atom:link href="http://wangsprose.github.io/tags/protein-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling Protein Structures</title>
+      <link>http://wangsprose.github.io/posts/2022-07-22-gvp/</link>
+      <pubDate>Fri, 22 Jul 2022 22:32:23 -0700</pubDate>
+      
+      <guid>http://wangsprose.github.io/posts/2022-07-22-gvp/</guid>
+      <description>Introduction There are many works for protein modeling regarding proteins as a 1-d sequences. From this perspective, proteins resembles natural languages - amino acides are the language tokens. One huge advantage of such approach is that it enables the easy utilization of the rich existing works for natural language modeling where great success has been achieved in recent years However, proteins have four levels of structure that is essential for their function.</description>
+    </item>
+    
+  </channel>
+</rss>

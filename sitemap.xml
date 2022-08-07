@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://wangsprose.github.io/posts/2022-07-20-bio-for-ai/</loc>
-    <lastmod>2022-07-22T17:20:03-07:00</lastmod>
+    <loc>http://wangsprose.github.io/posts/2022-07-22-gvp/</loc>
+    <lastmod>2022-07-22T22:32:23-07:00</lastmod>
   </url><url>
     <loc>http://wangsprose.github.io/posts/</loc>
-    <lastmod>2022-07-22T17:20:03-07:00</lastmod>
+    <lastmod>2022-07-22T22:32:23-07:00</lastmod>
+  </url><url>
+    <loc>http://wangsprose.github.io/tags/protein-model/</loc>
+    <lastmod>2022-07-22T22:32:23-07:00</lastmod>
+  </url><url>
+    <loc>http://wangsprose.github.io/tags/</loc>
+    <lastmod>2022-07-22T22:32:23-07:00</lastmod>
   </url><url>
     <loc>http://wangsprose.github.io/</loc>
+    <lastmod>2022-07-22T22:32:23-07:00</lastmod>
+  </url><url>
+    <loc>http://wangsprose.github.io/tags/bio/</loc>
+    <lastmod>2022-07-22T17:20:03-07:00</lastmod>
+  </url><url>
+    <loc>http://wangsprose.github.io/posts/2022-07-20-bio-for-ai/</loc>
     <lastmod>2022-07-22T17:20:03-07:00</lastmod>
   </url><url>
     <loc>http://wangsprose.github.io/categories/</loc>
@@ -16,7 +28,5 @@
     <loc>http://wangsprose.github.io/search/</loc>
   </url><url>
     <loc>http://wangsprose.github.io/series/</loc>
-  </url><url>
-    <loc>http://wangsprose.github.io/tags/</loc>
   </url>
 </urlset>

@@ -6,7 +6,16 @@
     <description>Recent content on Wang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jul 2022 17:20:03 -0700</lastBuildDate><atom:link href="http://wangsprose.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 22:32:23 -0700</lastBuildDate><atom:link href="http://wangsprose.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modeling Protein Structures</title>
+      <link>http://wangsprose.github.io/posts/2022-07-22-gvp/</link>
+      <pubDate>Fri, 22 Jul 2022 22:32:23 -0700</pubDate>
+      
+      <guid>http://wangsprose.github.io/posts/2022-07-22-gvp/</guid>
+      <description>Introduction There are many works for protein modeling regarding proteins as a 1-d sequences. From this perspective, proteins resembles natural languages - amino acides are the language tokens. One huge advantage of such approach is that it enables the easy utilization of the rich existing works for natural language modeling where great success has been achieved in recent years However, proteins have four levels of structure that is essential for their function.</description>
+    </item>
+    
     <item>
       <title>Bio-101 for AI Community</title>
       <link>http://wangsprose.github.io/posts/2022-07-20-bio-for-ai/</link>
